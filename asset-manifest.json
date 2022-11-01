@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/LogInPage/static/css/main.302f2252.chunk.css",
+    "main.js": "/LogInPage/static/js/main.a32b33b5.chunk.js",
+    "main.js.map": "/LogInPage/static/js/main.a32b33b5.chunk.js.map",
+    "runtime-main.js": "/LogInPage/static/js/runtime-main.bed83967.js",
+    "runtime-main.js.map": "/LogInPage/static/js/runtime-main.bed83967.js.map",
+    "static/js/2.57d214ac.chunk.js": "/LogInPage/static/js/2.57d214ac.chunk.js",
+    "static/js/2.57d214ac.chunk.js.map": "/LogInPage/static/js/2.57d214ac.chunk.js.map",
+    "index.html": "/LogInPage/index.html",
+    "static/css/main.302f2252.chunk.css.map": "/LogInPage/static/css/main.302f2252.chunk.css.map",
+    "static/js/2.57d214ac.chunk.js.LICENSE.txt": "/LogInPage/static/js/2.57d214ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bed83967.js",
+    "static/js/2.57d214ac.chunk.js",
+    "static/css/main.302f2252.chunk.css",
+    "static/js/main.a32b33b5.chunk.js"
+  ]
+}
